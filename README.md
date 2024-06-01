@@ -1,2 +1,2 @@
 # Differance
-A simple text writing program with implementation of auto suggestions from grammar and the trained data.
+ A simple text programs to implement auto suggestions based on grammar and trained data.
